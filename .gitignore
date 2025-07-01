@@ -1,0 +1,23 @@
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.vscode/
+*.sublime-*
+*.swp
+.idea/
+
+# Build Files
+*.zip
+node_modules/
+dist/
+build/
+
+# Large media files
+*.mp4
+*.mov
+*.wmv
+*.avi
+*.flv
+*.mkv 
